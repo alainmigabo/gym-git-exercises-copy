@@ -29,3 +29,13 @@
 ![git2](https://github.com/alainmigabo/Gym-Git-Exercise-Solutions/assets/114477064/5d6a4fae-a1c8-44d5-a409-5a22469fb78f)
 ![git3](https://github.com/alainmigabo/Gym-Git-Exercise-Solutions/assets/114477064/4c078f39-eab0-4fcf-b1e7-4addf1d177bb)
 ![git4](https://github.com/alainmigabo/Gym-Git-Exercise-Solutions/assets/114477064/09d9685a-ecd9-4a4b-b859-91aadb37c467)
+
+## Bundle 3
+
+### Exercise 1
+
+![git1](https://github.com/alainmigabo/Gym-Git-Exercise-Solutions/assets/114477064/4a9489fe-bfa8-4573-a888-cfa4bf729497)
+![git2](https://github.com/alainmigabo/Gym-Git-Exercise-Solutions/assets/114477064/63c5af22-4b49-4f5a-a8c2-8d51bae59da6)
+![git3](https://github.com/alainmigabo/Gym-Git-Exercise-Solutions/assets/114477064/8e38142c-d761-49bf-95e4-5855dd4788ad)
+![git4](https://github.com/alainmigabo/Gym-Git-Exercise-Solutions/assets/114477064/bbe5f962-fa17-493a-b086-04b6c4fafc3f)
+
