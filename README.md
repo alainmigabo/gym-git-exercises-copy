@@ -39,3 +39,8 @@
 ![git3](https://github.com/alainmigabo/Gym-Git-Exercise-Solutions/assets/114477064/8e38142c-d761-49bf-95e4-5855dd4788ad)
 ![git4](https://github.com/alainmigabo/Gym-Git-Exercise-Solutions/assets/114477064/bbe5f962-fa17-493a-b086-04b6c4fafc3f)
 
+### Exercise 2
+
+![git1](https://github.com/alainmigabo/Gym-Git-Exercise-Solutions/assets/114477064/82003d1a-c699-4aaa-8b4d-7655024b336f)
+![git2](https://github.com/alainmigabo/Gym-Git-Exercise-Solutions/assets/114477064/17e231fc-60ab-498b-b14a-08c8e6721f36)
+
